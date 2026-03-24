@@ -4,6 +4,8 @@ A custom-built full-stack application and algorithmic evaluation engine in Pytho
 I built this project to apply **Natural Language Processing (NLP)**, **Feature Engineering** and **Machine Learning Classification** on a real-world scenario: *Magic: The Gathering* deckbuilding and metagame analysis. 
 The system reads the unstructured "Oracle text" of a card, extracts its features, and uses a dual architecture (a deterministic rule-based manager and a probabilistic ML classifier) to predict its viability across competitive Pauper archetypes.
 
+⚠ THIS PROJECT IS STILL ON PROGRESS. THE LIST OF IMPROVEMENT FEATURES ARE (hopefully) GOING TO BE RESOLVED ⚠
+
 ### 📦 Technologies
 
 **Backend & Data Science**
